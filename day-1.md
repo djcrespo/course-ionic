@@ -112,3 +112,28 @@ Si bien programar de forma nativa es lo más ideal si queremos que nuestra aplic
 - Xamarin
 
 Estos frameworks nos ofrecen librerías que se comunican al dispositivo, si bien a día de hoy podemos hacer la mayoría de lo que necesitamos con desarrollo híbrido, existen algunas limitantes en estas como la integración del SDK de terceros en nuestra aplicación o cosas más complejas que requieren a lo mejor control más avanzado de los recursos.
+
+## Hola mundo
+
+Para crear nuestro primer proyecto en Ionic necesitamos abrir la terminal e ingresar lo siguiente: 
+
+Creamos una carpeta donde tendrá todos nuestros proyectos
+
+```bash
+mkdir projects
+```
+
+Y la abrimos
+
+```bash
+cd projects
+```
+
+Dentro de nuestra carpeta vamos a ejecutar el siguiente comando:
+
+```bash
+ionic start
+```
+
+Dentro del proceso nos pedirá confirmar ciertas cosas dentro de nuestro proyecto, como el framework a usar (Vue, React o Angular), tipo de plantilla, entre otros.
+
