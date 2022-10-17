@@ -6,7 +6,7 @@ Aquí encontrarás toda la documentación relacionada con el **curso de aplicaci
 
 # Sobre mí
 
-![DJCrespo](/assets/img/djcrespo.jpg)
+<img src="assets/img/djcrespo.jpg" width="10%" height="auto">
 
 Mi nombre es Didier Crespo, estudiante de la carrera Ing. En Sistemas Computacionales dentro del Instituto Tecnológico de Mérida, también soy presidente y lider de la división de Software del Capítulo Estudiantil AAAIMX, deseo dejar una huella positiva dentro de la sociedad aportando mis conocimientos para un bien común.
 
