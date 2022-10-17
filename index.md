@@ -18,3 +18,8 @@ Aquí encontrarás toda la documentación relacionada con el **curso de aplicaci
 
 <a href="https://github.com/DJCrespo" target="_blank"><img src="assets/img/github.png" width="5%" height="auto"></a> <a href="https://www.linkedin.com/in/didier-crespo-castilla-912964164/" target="_blank"><img src="assets/img/linkedin.png" width="5%" height="auto"></a>
 
+---
+
+Temas del curso
+
+[Día uno - Introducción e instalación](day-1.md)
