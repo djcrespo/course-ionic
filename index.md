@@ -16,6 +16,6 @@ Dentro de mis aficiones está todo lo relacionado a dispositivos moviles, es por
 
 # Redes de contacto
 
-<a href="https://github.com/DJCrespo" target="_blank"><img src="assets/img/github.png" width="25%" height="auto"></a>
+<a href="https://github.com/DJCrespo" target="_blank"><img src="assets/img/github.png" width="5%" height="auto"></a>
 
-<a href="https://www.linkedin.com/in/didier-crespo-castilla-912964164/" target="_blank"><img src="assets/img/linkedin.png" width="25%" height="auto"></a>
+<a href="https://www.linkedin.com/in/didier-crespo-castilla-912964164/" target="_blank"><img src="assets/img/linkedin.png" width="5%" height="auto"></a>
