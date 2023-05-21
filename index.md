@@ -1,4 +1,4 @@
-# ¡Bienvenidos!
+# ¡Bienvenidos
 
 Aquí encontrarás toda la documentación relacionada con el **curso de aplicaciones moviles con Ionic** hecha por **Didier Crespo**.
 
@@ -22,4 +22,5 @@ Aquí encontrarás toda la documentación relacionada con el **curso de aplicaci
 
 Temas del curso
 
-[Día uno - Introducción e instalación](day-1.md)
+[Día uno - Introducción e instalación](day-1.md)\
+[Día dos - Páginas, módulos y más](day-2.md)
