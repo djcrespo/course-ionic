@@ -22,5 +22,6 @@ Aquí encontrarás toda la documentación relacionada con el **curso de aplicaci
 
 Temas del curso
 
-[Día uno - Introducción e instalación](day-1.md)\
-[Día dos - Páginas, módulos y más](day-2.md)
+- [Introducción e instalación](day-1.md)
+- [Páginas, módulos y más](day-2.md)
+- [Interacción con los dispositivos](day-3.md)
