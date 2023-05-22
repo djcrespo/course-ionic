@@ -32,4 +32,30 @@ Tenemos una amplia variedad de componentes:
 - [Thumbnail](https://ionicframework.com/docs/api/thumbnail)
 - [Menu](https://ionicframework.com/docs/api/menu)
 - [Modal](https://ionicframework.com/docs/api/modal)
+- [Nav](https://ionicframework.com/docs/api/nav)
+- [Popover](https://ionicframework.com/docs/api/popover)
+- [Loading](https://ionicframework.com/docs/api/loading)
+- [Progress bar](https://ionicframework.com/docs/api/progress-bar)
+- [Skeleton text](https://ionicframework.com/docs/api/skeleton-text)
+- [Spinner](https://ionicframework.com/docs/api/spinner)
+- [Radio](https://ionicframework.com/docs/api/radio)
+- [Range](https://ionicframework.com/docs/api/range)
+- [Refresher](https://ionicframework.com/docs/api/refresher)
+- [Router](https://ionicframework.com/docs/api/router)
+- [Searchbar](https://ionicframework.com/docs/api/searchbar)
+- [Segment](https://ionicframework.com/docs/api/segment)
+- [Select](https://ionicframework.com/docs/api/select)
+- [Tabs](https://ionicframework.com/docs/api/tabs)
+- [Toast](https://ionicframework.com/docs/api/toast)
+- [Toggle](https://ionicframework.com/docs/api/toggle)
+- [Toolbar](https://ionicframework.com/docs/api/toolbar)
+- [Text](https://ionicframework.com/docs/api/text)
+
+## Páginas, componentes y más
+
+El framework nos permite crear varios componentes de manera sencilla dentro de nuestro proyecto, para eso nos apoyamos del comando:
+
+```javascript
+ionic generate <tipo_de_componente> <nombre_del_componente>
+```
 
